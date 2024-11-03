@@ -43,7 +43,8 @@ Handling exam schedules manually can be chaotic, prone to errors, and inefficien
 2. **Clone the Repository:**  
    ```bash
     npm install
-3.Set up MongoDB and environment variables.
+3.**Set up MongoDB and environment variables.**
+
 4.**Run the server:**  
   ```bash
   npm start
