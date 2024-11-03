@@ -47,4 +47,3 @@ Handling exam schedules manually can be chaotic, prone to errors, and inefficien
 4.**Run the server:**  
   ```bash
   npm start
-## Make exam management a breeze with the Exam Scheduler API! 🎉
