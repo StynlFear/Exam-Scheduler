@@ -40,4 +40,11 @@ Handling exam schedules manually can be chaotic, prone to errors, and inefficien
 1. **Clone the Repository:**  
    ```bash
    git clone https://github.com/StynlFear/Exam-Scheduler
-  ```
+2. **Clone the Repository:**  
+   ```bash
+    npm install
+3.Set up MongoDB and environment variables.
+4.**Run the server:**  
+  ```bash
+  npm start
+## Make exam management a breeze with the Exam Scheduler API! 🎉
