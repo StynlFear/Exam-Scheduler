@@ -1,7 +1,7 @@
 {
   "name": "examene-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "The **Exam Scheduler** is a powerful backend solution tailored to meet the complex scheduling needs of academic institutions. Designed to simplify exam planning and enhance coordination, this API-driven system empowers admins, professors, and students with a seamless way to manage exams, groups, and classroom allocations.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

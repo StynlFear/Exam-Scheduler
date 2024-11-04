@@ -1,7 +1,6 @@
 const Student = require('../models/student');
 const bcrypt = require('bcrypt');
 const jwt = require('jsonwebtoken');
-
 // Create a new student
 const createStudent = async (req, res) => {
     try {

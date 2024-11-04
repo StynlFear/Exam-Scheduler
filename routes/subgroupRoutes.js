@@ -1,6 +1,9 @@
 const express = require('express');
 const router = express.Router();
-const { addStudentToSubgroup, getStudentsInSubgroup } = require('../controllers/subgroupController');
+const { addStudentToSubgroup, getStudentsInSubgroup, createSubgroup } = require('../controllers/subgroupController');
+
+// Create a new subgroup
+router.post('/subgroups', createSubgroup); // Add this line
 
 // Add a student to a subgroup
 router.post('/groups/:groupId/subgroups/:subgroupId/students', addStudentToSubgroup);

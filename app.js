@@ -6,7 +6,6 @@ const GoogleStrategy = require('passport-google-oauth20').Strategy;
 const mongoose = require('mongoose');
 require('dotenv').config();
 
-const Student = require('./models/student'); // Import the student model
 const groupRoutes = require('./routes/groupRoutes');
 const studentRoutes = require('./routes/studentRoutes');
 const examRoutes = require('./routes/examRoutes');
